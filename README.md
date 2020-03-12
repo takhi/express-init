@@ -9,6 +9,6 @@ _____._.______  .____/\ .___.__  .___
 
 | API                    | Description        | Request body | Response body  |
 |------------------------|--------------------|--------------|----------------|
-| GET /v1/api/ping       | Get all todos      | none         | json           |
+| GET /v1/api/ping       | Ping me            | none         | json           |
 
 </pre>                                      
