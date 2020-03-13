@@ -3,9 +3,9 @@ const router = Router();
 
 const pingHandler = require("../handlers/pingHandler");
 
-function todoRoute() {
+function pingRoute() {
   router.get("/ping", pingHandler.pong);
   return router;
 }
 
-module.exports = todoRoute;
+module.exports = pingRoute;
